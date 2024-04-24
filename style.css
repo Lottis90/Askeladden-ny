@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
+
+* {
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-size: 2em;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+.overskrift {
+    color: red;
+}
+
+.overskrift2 {
+    color: greenyellow;
+}
+
+.kortitel {
+    font-weight: bold;
+ font-size: 30px;
+    margin: 20% 30%;
+}
+
+.kortTekst {
+    font-size: 35px;
+    margin: 20% 33%;
+}
+/* .forsideKort{
+    padding-left: 100px;
+    border: 2px solid red;
+} */
+
+.riktigAlternativ{
+    color: green;
+}
+
+.galtAlternativ{
+    color: red;
+}
+
